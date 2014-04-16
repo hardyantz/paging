@@ -22,7 +22,7 @@ $paging->set_option( array(
 print_r($paging->show());
 
 
-class paging option :
+option :
 =====================
 - limit         => per page limit
 - total         => total row results
